@@ -7,6 +7,8 @@ public class ExemploGit {
 		
 		// Alterado no Eclipse 
 		// Adicionado no branch 1
+		
+		//versão 1.2
 	}
 
 }
