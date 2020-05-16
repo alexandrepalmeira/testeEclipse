@@ -6,6 +6,7 @@ public class ExemploGit {
 		System.out.print("Teste");	
 		
 		// Alterado no Eclipse 
+		// Adicionado no branch 1
 	}
 
 }
